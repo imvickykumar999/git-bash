@@ -33,5 +33,3 @@ remote:      https://github.com/imvickykumar999/git-bash/pull/new/master
 remote:
 To https://github.com/imvickykumar999/git-bash.git
  * [new branch]      master -> master
-
-C:\Users\Vicky\Desktop\python\My APPs\brython\gitcmd>
